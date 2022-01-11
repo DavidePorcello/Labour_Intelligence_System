@@ -1,7 +1,6 @@
 # Labour_Intelligence_System
 
 
-# Usage
 **Script.ipynb** contains the scraper and the data preprocessing functions
 
 **Scraping_net_gross_salary.ipynb** contains the scraper for the dutch wage conversion net/gross
